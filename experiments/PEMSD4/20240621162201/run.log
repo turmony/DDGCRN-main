@@ -1,0 +1,15 @@
+2024-06-21 16:22: Experiment log path in: D:\tfp_pro\DDGCRN-main\experiments\PEMSD4\20240621162201
+2024-06-21 16:22: µ⁄“ª≤„—µ¡∑
+2024-06-21 16:22: ¡Ω≤„—µ¡∑
+2024-06-21 16:23: ********Train Epoch 1: averaged Loss: 52.606417, train time: 58.98 s
+2024-06-21 16:23: ***********Val Epoch 1: average Loss: 26.498977, train time: 6.44 s
+2024-06-21 16:23: **********test Epoch 1: average Loss: 25.084194, train time: 6.59 s
+2024-06-21 16:23: *********************************Current best model saved!
+2024-06-21 16:24: ********Train Epoch 2: averaged Loss: 25.389515, train time: 56.95 s
+2024-06-21 16:24: ***********Val Epoch 2: average Loss: 24.499084, train time: 6.69 s
+2024-06-21 16:24: **********test Epoch 2: average Loss: 23.295441, train time: 6.52 s
+2024-06-21 16:24: *********************************Current best model saved!
+2024-06-21 16:25: ********Train Epoch 3: averaged Loss: 23.548403, train time: 60.74 s
+2024-06-21 16:25: ***********Val Epoch 3: average Loss: 23.147446, train time: 6.40 s
+2024-06-21 16:25: **********test Epoch 3: average Loss: 22.160667, train time: 6.71 s
+2024-06-21 16:25: *********************************Current best model saved!
